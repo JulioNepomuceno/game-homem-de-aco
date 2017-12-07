@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/julio/AndroidStudioProjects/Projeto_Game/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/julio/AndroidStudioProjects/Projeto_Game/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_925e1dad2d584f5ffa32583b7ae34806522ebc7b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/julio/AndroidStudioProjects/Projeto_Game/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1bbed05b386a632058d19303b1f66106d72aa143">
+        <dex dex="/home/julio/AndroidStudioProjects/Projeto_Game/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ea3c62269ef56537c1e0fe3dc57c8cb92cab5a0b/classes.dex" />
+    </item>
+
+</items>
